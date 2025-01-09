@@ -1,7 +1,8 @@
 # Agent-Color-Customizer
- 
-# Getting started
 
+# Demo
+https://github.com/user-attachments/assets/6b6d58b8-2ace-42c5-8bbc-4451e9816bec
+# Getting started
 1. Clone the repository:
 ```bash
 git clone https://github.com/ji4/Agent-Color-Customizer.git
